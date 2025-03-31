@@ -2,7 +2,7 @@
 
 **`Desenvolvedor JavaScript, TypeScript`**
 
-Meu nome é Cleudson Leal Junior, tenho 16 anos e sou natural do estado do Pará. Atualmente, estou cursando o terceiro ano do ensino médio e pretendo, no futuro, ingressar na faculdade de Análise de Sistemas. Comecei a estudar HTML, CSS, JavaScript e TypeScript e descobri um grande interesse pela área de tecnologia.
+Meu nome é Cleudson Leal Junior, tenho 16 anos e sou natural do estado do Pará. Atualmente, estou cursando o terceiro ano do ensino médio e pretendo, no futuro, ingressar na faculdade de Análise de Sistemas. Comecei a estudar HTML, CSS, JavaScript e TypeScript e descobri um grande interesse pela área de tecnologia e uso meu tempo livre fazendo projetos e aproveito para postar aqui.
 
 Desde os 6 anos, tenho contato com tecnologia e, no futuro, meu objetivo é adquirir amplo conhecimento tanto em frontend quanto em backend.
 
