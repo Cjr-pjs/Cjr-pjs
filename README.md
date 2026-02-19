@@ -7,6 +7,8 @@ My name is Cleudson, and I am a 17-year-old Software Development student from Br
 Since childhood, I have had a natural ease with technology and logical problem-solving, which led me to pursue programming more seriously. My focus is on Full Stack Web Development, working with technologies such as JavaScript, TypeScript, React, Angular, Node.js, HTML, CSS, and SQL.
 
 I have experience building RESTful APIs, structuring backend applications, and developing responsive front-end interfaces. I am committed to continuous improvement and to strengthening my knowledge in backend architecture, databases, and scalable application development.
+
+
 <a href="https://github.com/Cjr-pjs">
     <img 
         alt="Total de estrelas" 
