@@ -2,10 +2,11 @@
 
 **`Desenvolvedor JavaScript, TypeScript`**
 
-Meu nome é Cleudson Leal Junior, tenho 16 anos e sou natural do estado do Pará. Atualmente, estou cursando o terceiro ano do ensino médio e pretendo, no futuro, ingressar na faculdade de Análise de Sistemas. Comecei a estudar HTML, CSS, JavaScript e TypeScript e descobri um grande interesse pela área de tecnologia e uso meu tempo livre fazendo projetos e aproveito para postar aqui.
+My name is Cleudson, and I am a 17-year-old Software Development student from Brazil. I am currently pursuing a degree in Systems Analysis and Development (ADS) and have been dedicated to technology since the age of 16.
 
-Desde os 6 anos, tenho contato com tecnologia e, no futuro, meu objetivo é adquirir amplo conhecimento tanto em frontend quanto em backend.
+Since childhood, I have had a natural ease with technology and logical problem-solving, which led me to pursue programming more seriously. My focus is on Full Stack Web Development, working with technologies such as JavaScript, TypeScript, React, Angular, Node.js, HTML, CSS, and SQL.
 
+I have experience building RESTful APIs, structuring backend applications, and developing responsive front-end interfaces. I am committed to continuous improvement and to strengthening my knowledge in backend architecture, databases, and scalable application development.
 <a href="https://github.com/Cjr-pjs">
     <img 
         alt="Total de estrelas" 
