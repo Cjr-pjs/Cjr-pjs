@@ -32,20 +32,6 @@ I have experience building RESTful APIs, structuring backend applications, and d
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cjr-pjs&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cjr-pjs&layout=compact&theme=tokyonight"
-  />
-</p>
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
